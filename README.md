@@ -1,11 +1,11 @@
-About r-varfrompdb
-==================
+About r-varfrompdb-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varfrompdb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=VarfromPDB
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varfrompdb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Captures and compiles the genes and variants related to a disease, a phenotype or a clinical feature from the public databases including HPO (Human Phenotype Ontology, <http://human-phenotype-ontology.github.io/about.html>), Orphanet <http://www.orpha.net/consor/cgi-bin/index.php>, OMIM (Online Mendelian Inheritance in Man, <http://www.omim.org>), ClinVar <http://www.ncbi.nlm.nih.gov/clinvar>, and UniProt (Universal Protein Resource, <http://www.uniprot.org>) and PubMed abstracts. HPO provides a standardized vocabulary of phenotypic abnormalities encountered in human disease. HPO currently contains approximately 11,000 terms and over 115,000 annotations to hereditary diseases. Orphanet is the reference portal for information on rare diseases and orphan drugs, whose aim is to help improve the diagnosis, care and treatment of patients with rare diseases. OMIM is a continuously updated catalog of human genes and genetic disorders and traits, with particular focus on the molecular relationship between genetic variation and phenotypic expression. ClinVar is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence. UniProt focuses on amino acid altering variants imported from Ensembl Variation databases. For Homo sapiens, the variants including human polymorphisms and disease mutations in the UniProt are manually curated  from UniProtKB/Swiss-Prot. Additionally, PubMed provides the primary and latest source of the information. Text mining was employed to capture the information from PubMed abstracts.
 
